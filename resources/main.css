@@ -11,7 +11,12 @@
       font-size: 110%;
       color: #007878;
     }
-.butt{
+.main {
+ width: 80%;
+ display: flex;
+ background-color: #333333;
+}
+.butt {
      position : fixed;
      bottom : 0;
 }
