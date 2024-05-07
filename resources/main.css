@@ -4,10 +4,10 @@
         color: #ffffff;
       }
     a {
-      color: #ff00ff;
+      color: #00ffff;
     }
     a:hover {
       transition: all .2s ease-in-out;
       font-size: 110%;
-      color: #780078;
+      color: #007878;
     }
