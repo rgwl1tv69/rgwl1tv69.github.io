@@ -12,7 +12,6 @@
       color: #007878;
     }
 .main {
-      display: flex;
       width: 80%;
       justify-content: space-between;
       margin-bottom: 20px; 
